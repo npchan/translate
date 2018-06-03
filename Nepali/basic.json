@@ -1,0 +1,51 @@
+{
+	"title": "NPChan",
+	"tagline": "The Nepali Internet!",
+	"about": "हाम्रोबारे",
+	"contact": "सम्पर्क",
+	"donate": "<b>सहयोग गर्नुहोस्</b>",
+	"faq": "F.A.Q",
+	"rules": "नियमहरू",
+	"press": "Press",
+	"legal": "कानूनी",
+	"advertise": "विज्ञापन गर्नुहोस्",
+	"feedback": "प्रतिक्रिया",
+	"source": "Source",
+	"home": "Home",
+	"cat": {
+		"creative": "सृजनशिल",
+		"interests": "रुचीहरु",
+		"community": "समुदाय",
+		"misc": "विविध <span class='nsfw-warning'>(वयस्क)</span>",
+		"others": "अन्य",
+		"adult": "वयस्क <span class='nsfw-warning'>(१८+)</span>"
+	},
+	"copyright": "प्रतिलिपि अधिकार",
+	"copyright_alt": "यस पृष्ठमा सबै ट्रेडमार्क र प्रतिलिपि अधिकार तिनीहरूको सम्बन्धित दलको स्वामित्वमा छ। चित्र अपलोड गरिएका पोस्टरको जिम्मेवारी हो। टिप्पणीहरू पोस्टरको स्वामित्वमा छन्।",
+	"settings": "सेटिङ्हरू",
+	"error": {
+		"error": "त्रुटि",
+		"report_error": "त्रुटि रिपोर्ट गर्नुहोस्",
+		"404":{
+			"title": "404 - फेला परेन",
+			"alt": "This is embarrassing. We're having trouble finding this page, file or thread you are looking for. This could have been deleted or moved to another location."
+		},
+		"403": {
+			"title": "403 - प्रवेश अस्वीकृत",
+			"alt": "Nope! You do not have permission to view this folder or file."
+		},
+		"400": {
+			"title": "400 - Bad Request!",
+			"alt": "Your browser sent us a bad request. Please restart your browser or switch to different browser if this problem continues."
+		},
+		"408": {
+			"title": "408 - Request Time-out!",
+			"alt": "The request you sent time-out. Is your internet connection too slow? Please try again!"
+		},
+		"500": {
+			"title": "500 - सर्भर त्रुटि",
+			"alt": "Our bad! Something doesn't seem to be working here on our side. Please report us this error if you continue to see this."
+		},
+		"is_error": "Could this possibly be a server error or a bug? Please report this error to us if this is abnormal."
+	}
+}
